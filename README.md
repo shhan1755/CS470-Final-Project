@@ -1,7 +1,13 @@
 # CS470-Final-Project
-Team 31
+# Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
 
-File organization
+# Team information
+- Team 31
+- 20170719 Han Seunghee
+- 20160633 Cho Jaemin
+- 20170057 Geon Gim
+
+# File organization
 
 - CNN Image Classification Model
 
