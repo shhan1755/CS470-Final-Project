@@ -2,7 +2,7 @@
 Team 31
 
 
-Service Software
+- Service Software
   - Emotion_Mate.py
     - main service code.
     - It saves webcam pictures and cropped face pictures to test_output folder.
