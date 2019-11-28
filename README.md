@@ -1,5 +1,5 @@
 # CS470-Final-Project
-# Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
+Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
 
 # Team information
 - Team 31
