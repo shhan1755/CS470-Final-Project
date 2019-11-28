@@ -11,15 +11,15 @@ Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
 
 - CNN Image Classification Model
   - Additional_data
-    - aaa
+    - EmoPy datset, JAFFE dataset, Korean celebrities dataset
   - CNN_result
-    - aaa
+    - Result figure of CNN model
   - Preprocess
-    - aaa
+    - Python code for preprocess to convert image into csv file
   - checkpoints
-     - aaa
+     - Checkpoint of our model
   - model_test.py
-    - aaa
+    - test code for using our CNN model on local
 
 - Reactive AI Robot Software
   - Driving Part.ino
