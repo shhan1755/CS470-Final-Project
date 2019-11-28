@@ -28,8 +28,8 @@ File organization
     - camera.py
       - check webcam works well (streaming).
  
- - Team31_Fianl_Repot.pdf
+- Team31_Fianl_Repot.pdf
   - Final Report of our project
  
- - 31.pptx
+- 31.pptx
   - Presentation material of our project
