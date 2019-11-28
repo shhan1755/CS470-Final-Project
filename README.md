@@ -23,7 +23,7 @@ Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
     - main service code.
     - It saves webcam pictures and cropped face pictures to test_output folder.
   
-  - Util Software
+  - Util Software (Softwares used for environment test)
   
     - face_from_image.py
       - extract face from images in image folder, save to output folder (number of image should me provided).
