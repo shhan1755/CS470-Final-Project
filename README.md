@@ -30,10 +30,14 @@ Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
     - python code which is converted from "CNN_emotion_recognition.ipynb"
 
 - Reactive AI Robot Software
-  - Driving Part.ino
-    - software for driving part (OpenCV 9.04 board). 
-  - Facial Expression Part.ino
-    - software for facial expression part (Arduino MEGA board).
+  - Driving_Part
+    - Driving_Part.ino
+      - software for driving part (OpenCV 9.04 board). 
+    - motions.ino
+      - software for driving part (OpenCV 9.04 board). 
+  - Facial_Expression_Part
+    - Facial_Expression_Part.ino
+      - software for facial expression part (Arduino MEGA board).
 
 - Service Software
   - Emotion_Mate.py
