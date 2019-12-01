@@ -53,9 +53,6 @@ Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
  
 - Team31_Fianl_Repot.pdf
   - Final Report of our project
- 
-- 31.pptx
-  - Presentation material of our project
 
 # Promotion Video
 Available at: https://www.youtube.com/watch?v=001Ti6mlWBU
