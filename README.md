@@ -5,7 +5,7 @@ Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
 - Team 31
 - 20170719 Han Seunghee
 - 20160633 Cho Jaemin
-- 20170057 Geon Gim
+- 20170057 Geon Kim
 
 # File organization
 
