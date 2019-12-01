@@ -32,9 +32,9 @@ Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
 - Reactive AI Robot Software
   - Driving_Part
     - Driving_Part.ino
-      - software for driving part (OpenCV 9.04 board). 
+      - software for driving part (OpenCM 9.04 board). 
     - motions.ino
-      - software for driving part (OpenCV 9.04 board). 
+      - software for driving part (OpenCM 9.04 board). 
   - Facial_Expression_Part
     - Facial_Expression_Part.ino
       - software for facial expression part (Arduino MEGA board).
