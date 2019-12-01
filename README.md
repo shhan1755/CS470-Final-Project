@@ -47,9 +47,9 @@ Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
     - face_from_image.py
       - extract face from images in image folder, save to output folder (number of image should me provided).
     - csv_to_image.py
-      - make image from csv file (dataset).
+      - make images from csv file (dataset).
     - camera.py
-      - check webcam works well (streaming).
+      - check if webcam works well (streaming).
  
 - Team31_Fianl_Repot.pdf
   - Final Report of our project
