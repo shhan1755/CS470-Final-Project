@@ -17,7 +17,8 @@ Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
   - Preprocess
     - Python code for preprocess to convert image into csv file
   - checkpoints
-     - Checkpoint of our model
+     - Checkpoint of our model (trained)
+     - we did not used pre-trained model
   - Kaggle_dataset
     - Basic dataset from Kaggle facial expression recognition challenge
   - Final_dataset
