@@ -25,9 +25,9 @@ Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
   - model_test.py
     - test code for using our CNN model on local
   - CNN_emotion_recognition.ipynb
-    - Jupyter notebook file to train our model on Google Colab
+    - Jupyter notebook file to train our model on Google Colab (training code)
   - cnn_emotion_recogntion.py
-    - python code which is converted from "CNN_emotion_recognition.ipynb"
+    - python code which is converted from "CNN_emotion_recognition.ipynb" (training code)
 
 - Reactive AI Robot Software
   - Driving_Part
@@ -41,7 +41,7 @@ Emotion Mate: User Emotion Reactive AI Robot UsingCNN Image Classification Model
 
 - Service Software
   - Emotion_Mate.py
-    - main service code.
+    - main service code. (inference code)
     - It saves webcam pictures and cropped face pictures to test_output folder. 
   - Util Software (Softwares used for environment test)  
     - face_from_image.py
